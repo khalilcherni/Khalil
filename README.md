@@ -33,7 +33,7 @@
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as Full stack Javascript Developer.<br>- 📚 I'm currently learning linux ,Angular.<br>- ⚡ In my free time I play video games and football.</p>
+<p align="left">I'm Khalil Cherni from Tunisia .<br><br>- 🔭 I’m working as Full stack Javascript Developer.<br>- 📚 I'm currently learning linux ,Angular.<br>- ⚡ In my free time I play video games and football.</p>
 
 ###
 
@@ -89,7 +89,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
 </div>
 
-###
 
 
 ###
