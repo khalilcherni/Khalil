@@ -24,8 +24,8 @@
 
 ###
 
-<h1 align="center">Hey there 👋</h1>
- 🔭 A passionate Full-Stack Web Developer from Tunisia
+<h1 align="center">
+ 🔭 A passionate Full-Stack Web Developer from Tunisia 👋</h1>
 
 ###
 
