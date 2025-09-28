@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://i.pinimg.com/originals/79/9e/0d/799e0d7779f6ea6c3a89885ff60c55af.gif"  />
+  <img height="150" src="https://img.freepik.com/premium-photo/computer-mouse-pixel-art-style-8bit-ai-generative_324511-3804.jpg"  />
 </div>
 
 
