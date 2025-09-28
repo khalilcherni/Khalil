@@ -32,7 +32,7 @@
 
 ###
 
-<p align="left">I'm Khalil Cherni from Tunisia .<br><br>- 🔭 I’m working as Full stack Javascript Developer.<br>- 📚 I'm currently learning linux ,Angular.<br>- ⚡ In my free time I play video games and football.</p>
+<p align="left">I'm Khalil Cherni from Tunisia .<br><br>- 🔭 I’m working as Full stack Javascript Developer.<br>- 📚 I'm currently learning linux ,Angular.<br>- 📫 How to reach me kcherni411@gmail.com </p>
 
 ###
 
