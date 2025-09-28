@@ -25,6 +25,7 @@
 ###
 
 <h1 align="center">Hey there 👋</h1>
+ 🔭 A passionate Full-Stack Web Developer from Tunisia
 
 ###
 
@@ -32,7 +33,7 @@
 
 ###
 
-<p align="left">I'm Khalil Cherni from Tunisia .<br><br>- 🔭 I’m working as Full stack Javascript Developer.<br>- 📚 I'm currently learning linux ,Angular.<br>- 📫 How to reach me kcherni411@gmail.com </p>
+<p align="left">I'm Khalil Cherni from Tunisia .<br><br>- <br>- 📚 I'm currently learning linux ,Angular.<br>- 📫 How to reach me kcherni411@gmail.com </p>
 
 ###
 
