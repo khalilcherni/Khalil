@@ -27,7 +27,7 @@
 
 ###
 
-<p align="left">I'm Khalil Cherni from Tunisia .<br><br>- <br>- 📚 I'm currently learning linux ,Angular.<br>- 📫 How to reach me kcherni411@gmail.com </p>
+<p align="left">I'm Khalil Cherni from Tunisia .<br>- 📚 I'm currently learning linux .<br>- 📫 How to reach me kcherni411@gmail.com </p>
 
 ###
 
