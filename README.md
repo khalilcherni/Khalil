@@ -18,12 +18,6 @@
   </a>
 </div>
 
-###
-
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=khalilcherni.khalilcherni&"  />
-
-###
-
 <h1 align="center">
  🔭 A passionate Full-Stack Web Developer from Tunisia 👋</h1>
 
